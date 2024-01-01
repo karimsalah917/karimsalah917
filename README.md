@@ -7,7 +7,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a Fresh Graduate Electrical Enfineer who is passionate about Embedded Software.
+I'm a Fresh Graduate Electrical Engineer who is passionate about Embedded Software.
 
 - 🎓 &nbsp;  Ain Shams Unversity Faculty of Engineering.
 - 💼 &nbsp; Working as an Embedded software intern at ITI.
